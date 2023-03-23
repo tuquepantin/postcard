@@ -2,9 +2,7 @@ body {
 	background: black;
 	font-family: "Edu NSW ACT Foundation", cursive;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
+
 }
 .postcard {
 	background: white;
